@@ -1,6 +1,6 @@
 # Smart Parking Lot System
 
-A low-level design implementation of a smart parking lot system in Java. Built as part of the Airtribe Backend Engineering course.
+A low-level design implementation of a smart parking lot system in Java. 
 
 ## Overview
 
